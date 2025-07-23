@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-21T17:13:45 IST" name="Default suite" finished-at="2025-07-21T17:16:38 IST" duration-ms="173732">
+    <groups>
+    </groups>
+    <test started-at="2025-07-21T17:13:45 IST" name="Default test" finished-at="2025-07-21T17:16:38 IST" duration-ms="173732">
+      <class name="Pra.TaskOnMyntra">
+        <test-method signature="Tc01()[pri:0, instance:Pra.TaskOnMyntra@1d9b7cce]" started-at="2025-07-21T17:13:45 IST" name="Tc01" finished-at="2025-07-21T17:15:40 IST" duration-ms="115717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc01 -->
+        <test-method signature="Tc02()[pri:0, instance:Pra.TaskOnMyntra@1d9b7cce]" started-at="2025-07-21T17:15:40 IST" name="Tc02" finished-at="2025-07-21T17:16:38 IST" duration-ms="57971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc02 -->
+      </class> <!-- Pra.TaskOnMyntra -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
