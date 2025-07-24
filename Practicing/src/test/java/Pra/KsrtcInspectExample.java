@@ -61,6 +61,7 @@ public class KsrtcInspectExample {
 				WebElement next= driver.findElement(By.xpath("//span[@class='ui-icon ui-icon-circle-triangle-e']"));
 				wait.until(ExpectedConditions.visibilityOf(next));
 				next.click();
+		//Handling calender popup along with booking the ticket
 			}
 		}
 		
